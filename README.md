@@ -12,8 +12,6 @@
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
-{what} to {purpose}. {how & tools used}.
-
 This project aims to design and develop user interface equipped AI Agents with an integration of Gmail and Microsoft Word to automate business communication (drafting emails, writing cover letters, etc.). This user-friendly and time efficient program will help professionals generate sophisticated emails and cover letter with decrement in drafting time.
 - Design the entire workflow and Use CrewAI to develop Agents
 - Integrate the agents with Gmail and Microsoft Word
