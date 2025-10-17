@@ -1,4 +1,4 @@
-# 🧾 Business Communication AI Agent | Consultants & Management
+# 🧾 Business Communication Agent | Consultants & Management
 
 ### Engineer user interface equipped AI Agents and integrate them with Gmail and Microsoft Word to automate business communication (drafting emails, writing cover letters, etc.).
 
